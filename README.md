@@ -5,6 +5,8 @@ The data made available here is an excerpt of the original files that is formatt
 
 The sets used in the analysis part of our paper, were **processed** as stated in [Data Processing](#data-processing).
 
+We provide all sequence files used in the experiments, which are stored in a directory structure that reflects the experiment they were used in.
+
 ## Python Environment
 Requirements: [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [anaconda](https://www.anaconda.com/products/distribution) installed.
 Dont forget that you can "**skip registration**" even when installing anaconda don't get confused by the [dark pattern](https://en.wikipedia.org/wiki/Dark_pattern) they put up. 
@@ -181,4 +183,6 @@ All information gathered during the processign steps is stored in the `metadata`
 | **Stickiness (control param.)** | 4                 | 4                      | 4                        |
 
 # Extended Data Availability
-Should you require the full data set as exported from the MINFLUX-IMSPECTOR and/or sequence file, please contact the corresponding author. The data is stored in a proprietary format and can be made available upon request.
+The raw MINFLUX files in NPY-format as exported from MINFLUX-iMSCPECTOR (commercial version - 16.3.15645-m2205) as well as the raw TIRF image stacks are made available within a Zenodo repository (Data Deposition - Parameter Optimization for MINFLUX Microscopy enabled Single Particle Tracking; doi: [10.5281/zenodo.17153525](https://doi.org/10.5281/zenodo.17153525)). 
+
+Should you require access to the relevant MINFLUX-IMSPECTOR MSR-files, please contact B.T.L.V. (bela.vogler@uni-jena.de). The data will be made available upon request.
