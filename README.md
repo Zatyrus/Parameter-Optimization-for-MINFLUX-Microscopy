@@ -185,4 +185,4 @@ All information gathered during the processign steps is stored in the `metadata`
 # Extended Data Availability
 The raw MINFLUX files in NPY-format as exported from MINFLUX-iMSCPECTOR (commercial version - 16.3.15645-m2205) as well as the raw TIRF image stacks are made available within a Zenodo repository (Data Deposition - Parameter Optimization for MINFLUX Microscopy enabled Single Particle Tracking; doi: [10.5281/zenodo.17153525](https://doi.org/10.5281/zenodo.17153525)). 
 
-Should you require access to the relevant MINFLUX-IMSPECTOR MSR-files, please contact B.T.L.V. (bela.vogler@uni-jena.de). The data will be made available upon request.
+Access to the relevant MINFLUX-IMSPECTOR MSR-files can be made available upon specific request. Please, contact B.T.L.V. (bela.vogler@uni-jena.de).
